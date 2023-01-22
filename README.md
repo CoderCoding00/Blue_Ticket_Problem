@@ -21,3 +21,4 @@ to test against the a.out
 
 # Screen Shot of the Test Output 
 
+<img width="719" alt="Blue_ticker" src="https://user-images.githubusercontent.com/107374333/213902596-3e1f2e05-19a3-4123-b132-567c34217b2c.png">
